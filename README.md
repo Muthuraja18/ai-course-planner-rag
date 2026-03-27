@@ -101,6 +101,14 @@ The dataset consists of academic catalog-style documents:
 
 ## ⚙️ Setup & Run
 
+## 📸 Screenshots
+
+### Home Page
+![Home](screenshots/home.png)
+
+### Output Example
+![Output](screenshots/output.png)
+
 ### 1️⃣ Install dependencies
 
 ```bash
