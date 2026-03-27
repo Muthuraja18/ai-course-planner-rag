@@ -1,0 +1,4 @@
+Course: CS311
+Title: Mobile App Development
+Prerequisite: CS201
+Description: Android/iOS app development basics.

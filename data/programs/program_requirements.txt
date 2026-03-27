@@ -1,0 +1,23 @@
+Program: Bachelor of Science in Computer Science
+
+Core Requirements:
+- CS101 (Introduction to Programming)
+- CS102 (Programming Fundamentals II)
+- CS202 (Data Structures)
+- CS303 (Operating Systems)
+- CS304 (Computer Networks)
+
+Mathematics Requirements:
+- MATH101 (Calculus I)
+- MATH201 (Calculus II)
+
+Electives (Choose any 2):
+- CS305 (Software Engineering)
+- CS306 (Artificial Intelligence)
+- CS307 (Machine Learning)
+
+Credit Requirement:
+- Minimum 120 credits required for graduation
+
+Residency Requirement:
+- At least 60 credits must be completed within the institution

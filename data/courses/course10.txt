@@ -1,0 +1,4 @@
+Course: CS306
+Title: Artificial Intelligence
+Prerequisite: CS202
+Description: Search algorithms, knowledge representation.

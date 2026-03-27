@@ -1,0 +1,4 @@
+Course: CS315
+Title: Blockchain Technology
+Prerequisite: CS202
+Description: Distributed ledger and cryptocurrency basics.

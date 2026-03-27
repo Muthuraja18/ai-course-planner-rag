@@ -1,0 +1,4 @@
+Course: CS313
+Title: Natural Language Processing
+Prerequisite: CS306
+Description: Text processing, language models.

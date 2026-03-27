@@ -1,0 +1,25 @@
+Course: CS303
+Title: Operating Systems
+Prerequisite: CS202
+Co-requisite: MATH201
+Description: Covers process management, memory management, and file systems.
+
+Course: CS304
+Title: Computer Networks
+Prerequisite: CS202
+Description: Covers networking fundamentals, protocols, and architectures.
+
+Course: CS305
+Title: Software Engineering
+Prerequisite: CS202
+Description: Covers software development lifecycle, design patterns, and testing.
+
+Course: CS306
+Title: Artificial Intelligence
+Prerequisite: CS202
+Description: Introduction to AI concepts, search algorithms, and machine learning basics.
+
+Course: CS307
+Title: Machine Learning
+Prerequisite: CS306
+Description: Covers supervised and unsupervised learning techniques.

@@ -1,0 +1,4 @@
+Course: CS312
+Title: Big Data Analytics
+Prerequisite: CS202
+Description: Data processing, Hadoop, Spark.

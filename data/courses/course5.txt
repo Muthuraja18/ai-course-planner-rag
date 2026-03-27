@@ -1,0 +1,4 @@
+Course: CS401
+Title: Advanced Algorithms
+Prerequisite: CS301
+Description: Covers advanced algorithm design and analysis.

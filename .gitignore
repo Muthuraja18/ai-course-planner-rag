@@ -1,0 +1,49 @@
+# Virtual environment
+myenv/
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Vector DB / embeddings
+vectorstore/
+*.faiss
+*.pkl
+
+# IDE / editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large model / ML files (VERY IMPORTANT)
+*.pt
+*.pth
+*.bin
+*.onnx
+
+# Temporary files
+*.tmp
+*.bak
+
+# Jupyter
+.ipynb_checkpoints/
+
+# HuggingFace / caches
+.cache/
+huggingface_hub/
+
+# Streamlit
+.streamlit/
+.env
+# Node (if ever used)
+node_modules/

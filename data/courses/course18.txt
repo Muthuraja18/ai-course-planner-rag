@@ -1,0 +1,4 @@
+Course: CS314
+Title: Robotics
+Prerequisite: CS306
+Description: Robotics fundamentals and automation.

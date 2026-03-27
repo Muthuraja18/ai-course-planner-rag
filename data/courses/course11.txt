@@ -1,0 +1,4 @@
+Course: CS307
+Title: Machine Learning
+Prerequisite: CS306
+Description: Supervised and unsupervised learning techniques.

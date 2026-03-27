@@ -1,0 +1,4 @@
+Course: CS309
+Title: Cyber Security
+Prerequisite: CS202
+Description: Security principles, encryption, threats.

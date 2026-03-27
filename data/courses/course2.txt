@@ -1,0 +1,24 @@
+Course: MATH101
+Title: Calculus I
+Prerequisite: None
+Description: Introduction to limits, derivatives, and basic integration.
+
+Course: MATH201
+Title: Calculus II
+Prerequisite: MATH101
+Description: Covers advanced integration techniques and sequences.
+
+Course: CS102
+Title: Programming Fundamentals II
+Prerequisite: CS101
+Description: Covers object-oriented programming and data structures basics.
+
+Course: CS202
+Title: Data Structures
+Prerequisite: CS102
+Description: Covers arrays, linked lists, stacks, queues, and trees.
+
+Course: CS302
+Title: Database Systems
+Prerequisite: CS202
+Description: Introduction to relational databases, SQL, and normalization.

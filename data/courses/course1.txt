@@ -1,0 +1,8 @@
+Course: CS101
+Prerequisite: None
+
+Course: CS201
+Prerequisite: CS101
+
+Course: CS301
+Prerequisite: CS201

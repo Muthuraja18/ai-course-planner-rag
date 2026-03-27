@@ -1,0 +1,4 @@
+Course: CS308
+Title: Computer Graphics
+Prerequisite: CS202
+Description: Rendering, modeling, visualization.

@@ -1,0 +1,4 @@
+Course: CS304
+Title: Software Engineering
+Prerequisite: CS202
+Description: Software development lifecycle, design patterns.

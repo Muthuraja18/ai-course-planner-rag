@@ -1,0 +1,4 @@
+Course: CS302
+Title: Database Systems
+Prerequisite: CS202
+Description: Relational databases, SQL, normalization.

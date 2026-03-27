@@ -1,0 +1,4 @@
+Course: CS316
+Title: Human Computer Interaction
+Prerequisite: CS201
+Description: User interface design and usability.

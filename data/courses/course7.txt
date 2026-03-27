@@ -1,0 +1,4 @@
+Course: CS303
+Title: Computer Networks
+Prerequisite: CS202
+Description: Networking concepts, protocols, TCP/IP.

@@ -1,0 +1,4 @@
+Course: CS310
+Title: Cloud Computing
+Prerequisite: CS303
+Description: Cloud architecture, services, deployment.

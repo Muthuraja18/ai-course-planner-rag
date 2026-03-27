@@ -1,0 +1,4 @@
+Course: CS402
+Title: Distributed Systems
+Prerequisite: CS303
+Description: Covers distributed computing concepts.

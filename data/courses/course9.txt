@@ -1,0 +1,4 @@
+Course: CS305
+Title: Web Development
+Prerequisite: CS201
+Description: Frontend and backend web technologies.
