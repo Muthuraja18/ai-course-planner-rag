@@ -19,6 +19,7 @@ The system answers prerequisite queries, suggests semester plans, and ensures al
 
 ---
 
+
 ## 🧠 Architecture
 
 This system follows an **Agentic RAG pipeline**:
@@ -66,4 +67,38 @@ This system follows an **Agentic RAG pipeline**:
 
 ---
 
+---
+
+## 📊 Dataset
+
+The dataset consists of academic catalog-style documents:
+
+- 📘 20+ Course descriptions (CS courses with prerequisites)
+- 📗 Program requirements (degree structure)
+- 📙 Academic policies (rules and constraints)
+
+---
+
+## 🔗 Sources
+
+- https://catalog.mit.edu/  
+  Accessed: March 2026  
+  Content: Course prerequisites and descriptions  
+
+- https://bulletin.stanford.edu/  
+  Accessed: March 2026  
+  Content: Program requirements  
+
+- https://www.example-university.edu/policies  
+  Accessed: March 2026  
+  Content: Academic policies  
+
+---
+
+## ⚙️ Setup & Run
+
+### 1️⃣ Install dependencies
+
+```bash
+pip install -r requirements.txt
 ## 📁 Project Structure
