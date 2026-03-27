@@ -1,12 +1,16 @@
-# 🎓 AI Course Planning Assistant (Agentic RAG)
+# AI Course Planner with RAG
 
-## 📌 Overview
-This project is a Retrieval-Augmented Generation (RAG) based AI assistant designed to help students plan their academic courses using university catalog data.
+## 📌 Description
+This is an AI-powered course planning assistant that uses Retrieval-Augmented Generation (RAG) to answer queries about course planning, prerequisites, and structured learning paths.
 
-The system answers prerequisite queries, suggests semester plans, and ensures all responses are strictly grounded in catalog documents with proper citations.
+## 🛠 Tech Stack
+- Python
+- LangChain
+- Vector Store (FAISS/Chroma)
+- Streamlit UI
+- Groq / LLM integration
 
----
-
+## 📁 Project Structure
 ## 🚀 Features
 
 - ✅ Prerequisite checking (Eligible / Not Eligible)
